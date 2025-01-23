@@ -1,0 +1,11 @@
+fastapi
+langchain
+langchain_community
+langchain_core
+langchain_openai
+langchain_qdrant
+pydantic
+python-dotenv
+qdrant_client
+uvicorn
+line-bot-sdk
